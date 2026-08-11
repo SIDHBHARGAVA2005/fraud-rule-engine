@@ -1,0 +1,7 @@
+transaction_id,user_id,amount,merchant,location,timestamp
+T001,U101,500,Amazon,IN,10/01/2024 10:15
+T002,U101,12000,Apple,IN,10/01/2024 10:18
+T003,U101,300,Amazon,IN,10/01/2024 10:20
+T004,U101,200,Amazon,IN,10/01/2024 10:22
+T005,U102,15000,DarkWebStore,RU,10/01/2024 02:10
+T006,U103,800,Flipkart,IN,10/01/2024 23:55
